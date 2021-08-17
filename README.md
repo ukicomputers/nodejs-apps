@@ -19,3 +19,14 @@ require('quick-email').sendEmail(path, subject, sender, to, variables, callback)
 ## How to run?
 Use command ``` nodejs sender-email.js require('quick-email').init(user, password, host, port, ssl);``` to initalize, 
 and ``` nodejs sender-email.js require('quick-email').sendEmail(path, subject, sender, to, variables, callback);``` to send a email.
+______________________________________________________________________________
+
+##localhost-port-text.js
+
+## What to do?
+
+Shows Hello World! on port localhost:8080
+
+## How to run?
+
+Run with command ``` nodejs localhost-port-text.js ``` and open your browser and go to link or port : localhost:8080.
