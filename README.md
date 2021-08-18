@@ -17,8 +17,8 @@ Send an email
 require('quick-email').sendEmail(path, subject, sender, to, variables, callback);
 ```
 ## How to run?
-Use command ``` nodejs sender-email.js require('quick-email').init(user, password, host, port, ssl);``` to initalize, 
-and ``` nodejs sender-email.js require('quick-email').sendEmail(path, subject, sender, to, variables, callback);``` to send a email.
+Use command ``` node sender-email.js require('quick-email').init(user, password, host, port, ssl);``` to initalize, 
+and ``` node sender-email.js require('quick-email').sendEmail(path, subject, sender, to, variables, callback);``` to send a email.
 ______________________________________________________________________________
 
 ##localhost-port-text.js
@@ -29,7 +29,7 @@ Shows Hello World! on port localhost:8080
 
 ## How to run?
 
-Run with command ``` nodejs localhost-port-text.js ``` and open your browser and go to link or port : localhost:8080.
+Run with command ``` node localhost-port-text.js ``` and open your browser and go to link or port : localhost:8080.
 
 ______________________________________________________________________________
 
@@ -41,5 +41,5 @@ Shows in command-line interface text Hello World!
 
 ## How to run?
 
-In command-line type ``` nodejs text-command.js ``` and press Enter.
+In command-line type ``` node text-command.js ``` and press Enter.
 
