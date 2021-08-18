@@ -30,3 +30,16 @@ Shows Hello World! on port localhost:8080
 ## How to run?
 
 Run with command ``` nodejs localhost-port-text.js ``` and open your browser and go to link or port : localhost:8080.
+
+______________________________________________________________________________
+
+##text-command.js
+
+## What to do?
+
+Shows in command-line interface text Hello World!
+
+## How to run?
+
+In command-line type ``` nodejs text-command.js ``` and press Enter.
+
