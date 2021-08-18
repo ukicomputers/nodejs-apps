@@ -43,3 +43,15 @@ Shows in command-line interface text Hello World!
 
 In command-line type ``` node text-command.js ``` and press Enter.
 
+______________________________________________________________________________
+
+##input--answer.js
+
+## What to do?
+
+Asking for you name, and answer Hi yourusername (e.g. Ugljesa, Uki).
+
+## How to run?
+
+Firstly open command prompt and type: ``` npm install inquirer ```.
+After that, you can run program by typing in cmd : ``` node input--answer.js ```.
